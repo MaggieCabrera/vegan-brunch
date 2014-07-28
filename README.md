@@ -1,6 +1,6 @@
 # Vegan Brunch
 
-Simple [Brunch](http://brunch.io) skeleton with SASS, Compass, Foundation and JS
+Simple [Brunch](http://brunch.io) skeleton with SASS, Compass, Foundation 4 and JS
 
 ## Getting started
 
