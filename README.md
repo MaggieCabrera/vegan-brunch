@@ -1,4 +1,4 @@
 vegan-brunch
 ============
 
-Simple brunch skeleton with sass and JS
+Simple brunch skeleton with sass, foundation and JS
